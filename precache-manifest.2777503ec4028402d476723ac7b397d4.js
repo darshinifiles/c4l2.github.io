@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d60116ac3fd48fb959c21b36d3bf466d",
+    "revision": "b5aca8f3b012de733eb77acf547cc8a7",
     "url": "/c4l2.github.io/index.html"
   },
   {
